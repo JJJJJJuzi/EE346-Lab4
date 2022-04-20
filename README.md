@@ -7,3 +7,5 @@ Modify line 29 of the code to lower_white = numpy.array([0, 0, 220])（The value
 # Part II: Driving with BEV with Perspective Distortion Correction
 Refer to the information linked below to supplement the code in The First Part. https://learnopencv.com/homography-examples-using-opencv-python-c/.
 Locate the four points on the original image and map the four points to another image. Manually select these four points.
+# Part III: Stop Sign with Aruco Marker
+to be continued
