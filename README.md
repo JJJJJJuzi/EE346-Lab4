@@ -19,6 +19,7 @@ Not done yet，to be continued
 
   cd ~/catkin_ws/src
 
+  git clone git@github.com:JJJJJJuzi/EE346-Lab4.git
 
 2、Catkin make the lane following package
 
